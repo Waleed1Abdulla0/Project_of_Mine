@@ -1,4 +1,4 @@
-# Project_of_Mine
+# Project_of_Ours
 a Java project that uses linked list DS 
 CRUD Student Form 
 
